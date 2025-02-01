@@ -14,5 +14,5 @@ NOTE: If you are having issues with permissions. And you get error:
 5. Paste the following into `PSQL Tool`, (with the CORRECT file path)
 */
 
-\COPY kickstarter_projects FROM 'C:/Users/Rezi/Desktop/Data Science/SQL/Projects/2. Ki
+\COPY kickstarter_projects FROM '[your file path]'Projects/2
 
